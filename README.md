@@ -7,7 +7,7 @@ Answering these questions :
 
 
 
-1- Who were the passengers on the TiTanic ? (Ages, Sex, Classe ...)
+1- Who were the passengers on the TiTanic ? (Ages, Sex, Class ...)
 
 
 
